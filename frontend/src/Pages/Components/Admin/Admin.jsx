@@ -147,11 +147,11 @@ const Admin = () => {
                   Name : <span className="text-white">{msg.name}</span>
                 </p>
                 <p className=" text-light-blue-600">
-                  <span className="text-black">Email : </span>
+                  <span className="text-black">Email :- </span>
                   {msg.email}
                 </p>
                 <p>
-                  <span className="text-black">Message : </span>
+                  <span className="text-black">Message :- </span>
                   {msg.message}
                 </p>
               </div>
