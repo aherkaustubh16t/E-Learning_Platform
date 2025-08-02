@@ -141,7 +141,7 @@ function Landing() {
 
               <div className="flex items-center justify-start">
                 <CgProfile/>
-                <p>Prof. Dina Sharma</p>
+                <p>Prof. Rohit Sharma</p>
               </div>
               <div className="flex items-center">
                 <FaSchool />
@@ -157,7 +157,7 @@ function Landing() {
 
               <div className="flex items-center justify-start">
                 <CgProfile/>
-                <p>Dr. Anand Mishra</p>
+                <p>Dr. Madhav Mishra</p>
               </div>
               <div className="flex items-center">
                 <FaSchool />
@@ -173,7 +173,7 @@ function Landing() {
 
               <div className="flex items-center justify-start">
                 <CgProfile/>
-                <p>Prof. Sunita Patel</p>
+                <p>Prof. Virat Kolhi</p>
               </div>
               <div className="flex items-center">
                 <FaSchool />
